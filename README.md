@@ -305,19 +305,3 @@ The project can be improved in several ways in the future.
 * Add an interactive dashboard for exploring the dataset.
 * Automate the collection of new job postings from publicly available sources.
 * Add additional visualizations for salaries, locations, job families, and technical skills.
-
-
-
-# Conclusion
-
-This project demonstrates how Python can be used to transform raw job market data into useful information.
-
-The analysis answered two questions:
-
-1. **Which technical skills are most demanded in the job market?**
-   Excel was the most frequently represented technical skill, appearing in **31 of 32 job postings (96.9%)**.
-
-2. **What is the average salary for each job family?**
-   The dataset showed different average salaries across job families, with **Management having an average salary of $125,000.00** in the analyzed data.
-
-Through this project, I practiced important data analysis and software engineering skills including data loading, data cleaning, data conversion, filtering, aggregation, sorting, statistical analysis, and data visualization.
